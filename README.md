@@ -66,18 +66,6 @@ I’m passionate about **learning best practices**, **improving code one commit 
 
 ---
 
-## GitHub Stats
-
-📊 **Public Repositories:** 6  
-👥 **Followers:** 0  
-👤 **Following:** 0  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DrexReeeeee&show_icons=true&theme=radical" alt="GitHub stats" />
-</p>
-
----
-
 ## Recent Activity
 
 Here are some of my latest activities on GitHub:  
