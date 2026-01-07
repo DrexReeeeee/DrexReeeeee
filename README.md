@@ -58,11 +58,11 @@ I’m passionate about **learning best practices**, **improving code one commit 
 
 ## Top Projects
 
-- [**Panic-Type**](https://github.com/DrexReeeeee/Panic-Type) – A unique interactive app designed to play with user emotions. **⭐ 0 | Language: HTML**  
-- [**Easkolar**](https://github.com/DrexReeeeee/Easkolar) – A learning management system to help students track progress. **⭐ 0 | Language: JavaScript**  
-- [**Spendly**](https://github.com/DrexReeeeee/Spendly) – A budgeting tool to manage expenses effectively. **⭐ 0 | Language: CSS**  
-- [**Rez.Dev-Portfolio**](https://github.com/DrexReeeeee/Rez.Dev-Portfolio) – My personal portfolio showcasing projects and skills. **⭐ 0 | Language: JavaScript**  
-- [**To-Do_App**](https://github.com/DrexReeeeee/To-Do_App) – A simple yet effective app for managing tasks. **⭐ 0 | Language: HTML**  
+- [**Panic-Type**](https://github.com/DrexReeeeee/Panic-Type) – A unique interactive app designed to play with user emotions. **Technology: .NET, C#, JavaScript**  
+- [**Easkolar**](https://github.com/DrexReeeeee/Easkolar) – A learning management system to help students track progress. **Technology: Node.js, React.js**  
+- [**Spendly**](https://github.com/DrexReeeeee/Spendly) – A budgeting tool to manage expenses effectively. **Technology: Java, Spring Boot, Chart.js**  
+- [**Rez.Dev-Portfolio**](https://github.com/DrexReeeeee/Rez.Dev-Portfolio) – My personal portfolio showcasing projects and skills. **Technology: Three.js**  
+- [**To-Do_App**](https://github.com/DrexReeeeee/To-Do_App) – A simple yet effective app for managing tasks. **Technology: JavaScript**  
 
 ---
 
