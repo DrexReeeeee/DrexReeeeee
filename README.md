@@ -123,4 +123,4 @@ Here are some of my latest activities on GitHub:
 
 - [LinkedIn](https://www.linkedin.com/in/drixy-reece-irish-nacu-49627b108/)  
 - [GitHub](https://github.com/DrexReeeeee)  
-- [Portfolio](https://rez.dev)  
+- [Portfolio](https://rez-dev-portfolio.vercel.app/)  
