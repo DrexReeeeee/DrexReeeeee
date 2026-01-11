@@ -56,15 +56,43 @@ I’m passionate about **learning best practices**, **improving code one commit 
 
 ---
 
-## Top Projects
+## 🚀 Top Projects
 
-- [**Panic-Type**](https://github.com/DrexReeeeee/Panic-Type) – A unique interactive app designed to play with user emotions. **Technology: .NET, C#, JavaScript**  
-- [**Easkolar**](https://github.com/DrexReeeeee/Easkolar) – A learning management system to help students track progress. **Technology: Node.js, React.js**  
-- [**Spendly**](https://github.com/DrexReeeeee/Spendly) – A budgeting tool to manage expenses effectively. **Technology: Java, Spring Boot, Chart.js**  
-- [**Rez.Dev-Portfolio**](https://github.com/DrexReeeeee/Rez.Dev-Portfolio) – My personal portfolio showcasing projects and skills. **Technology: Three.js**  
-- [**To-Do_App**](https://github.com/DrexReeeeee/To-Do_App) – A simple yet effective app for managing tasks. **Technology: JavaScript**  
+### 🔹 Panic-Type
+A unique interactive application designed to play with user emotions through engaging UI and logic.  
+**Tech Stack:** .NET, C#, JavaScript  
+🔗 https://github.com/DrexReeeeee/Panic-Type
 
 ---
+
+### 🔹 Easkolar
+A learning management system that helps students track academic progress and manage learning workflows.  
+**Tech Stack:** Node.js, React.js  
+🔗 https://github.com/DrexReeeeee/Easkolar
+
+---
+
+### 🔹 Spendly
+A budgeting and expense-tracking application with data visualization for better financial insights.  
+**Tech Stack:** Java, Spring Boot, Chart.js  
+🔗 https://github.com/DrexReeeeee/Spendly
+
+---
+
+### 🔹 SmartNotes
+An **AI-powered PDF summarizer and document management platform** that extracts, summarizes, and organizes documents for faster knowledge consumption.  
+**Tech Stack:** ASP.NET, C#, AI/NLP, Web APIs
+🔗 https://github.com/DrexReeeeee/SmartNotes
+
+---
+
+### 🔹 EVE
+A **booking, marketplace, and networking platform** for event planners, companies, and freelancers—similar to Shopee but built specifically for event services and professional collaboration.  
+**Tech Stack:** PHP, MySQL, Web Technologies
+🔗 https://github.com/24102070/EVE_Gr-2_Final-Project
+
+---
+
 
 ## Recent Activity
 
